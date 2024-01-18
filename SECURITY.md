@@ -32,7 +32,7 @@ When a release series is no longer supported, it's your own responsibility to de
 To report a security vulnerability, please follow these steps:
 
 1. Do not create a public GitHub issue. Security issues are sensitive, and we want to ensure they are handled appropriately.
-2. Contact us privately via email at [okneerajsingh@gmail.com].
+2. Contact us privately via email at [subratprakash8031@gmail.com].
 3. Provide as much information as possible to help us understand and reproduce the issue. This may include steps to reproduce, affected versions, and any potential mitigations.
 4. Allow us a reasonable amount of time to investigate and address the issue before disclosing it publicly.
 

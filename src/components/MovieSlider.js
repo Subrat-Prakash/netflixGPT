@@ -17,8 +17,12 @@ const MovieSlider = ({ type, heading, data }) => {
     const slidesInView = Math.floor(window.innerWidth / 144);  // Adjust 200 to your slide width
     setSlidesPerGroup(slidesInView);
   };
+  
+  if (!data || !data.results) {
+    // If data or data.results is undefined, return a default state or handle the error appropriately
+    return <div>No data available</div>;
+  }
 
-  if (!data) return;
   const movies = data.results;
 
   return (

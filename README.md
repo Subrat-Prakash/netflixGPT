@@ -7,7 +7,7 @@ Movies recomandation with AI.
 - Install react app using create-react-app (CRA)
 
 ```js
-npx create-react-app netflix-gpt
+npx create-react-app netflixGPT
 ```
 
 - Create `.env` file and put configure
@@ -76,41 +76,41 @@ npm start
 
 ## Screen Shot
 
-Live Demo : [Live Demo](https://okneeraj.github.io/netflix-gpt "Live Demo")
+Live Demo : [Live Demo](https://nightflex.netlify.app/ "Live Demo")
 
 ## Screen Shot
 
 - Landing Page
 
-  ![Landing Page](https://okneeraj.github.io/netflix-gpt/screenshot/01-Landing.png)
+  ![Landing Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/01-Landing.png)
 
 - Signin Page
 
-  ![Signin Page](https://okneeraj.github.io/netflix-gpt/screenshot/02-Signin.png)
+  ![Signin Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/02-Signin.png)
 
 - Signup Page
 
-  ![Signup Page](https://okneeraj.github.io/netflix-gpt/screenshot/03-Signup.png)
+  ![Signup Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/03-Signup.png)
 
 - Browse Page
 
-  ![Browse Page](https://okneeraj.github.io/netflix-gpt/screenshot/04-Browse.png)
+  ![Browse Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/04-Browse.png)
 
 - Movie List
 
-  ![Movie List](https://okneeraj.github.io/netflix-gpt/screenshot/05-Movie-List.png)
+  ![Movie List](https://Subrat-Prakash.github.io/netflixGPT/screenshot/05-Movie-List.png)
 
 - Shimmer Loading
 
-  ![Shimmer Loading](https://okneeraj.github.io/netflix-gpt/screenshot/06-Shimmer-loading.png)
+  ![Shimmer Loading](https://Subrat-Prakash.github.io/netflixGPT/screenshot/06-Shimmer-loading.png)
 
 - Search Page
 
-  ![Search Page](https://okneeraj.github.io/netflix-gpt/screenshot/07-Search.png)
+  ![Search Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/07-Search.png)
 
 - Watch Now Page
 
-  ![Watch Now Page](https://okneeraj.github.io/netflix-gpt/screenshot/08-Watch.png)
+  ![Watch Now Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/08-Watch.png)
 
 # 💖 Support This Project
 

@@ -21,7 +21,7 @@ const About = () => {
       <div className='mb-8 text-gray-200'>
         Github: <a href='https://github.com/Subrat-Prakash' className='hover:text-blue-700 ml-3 text-blue-600 text-sm' target='_blank' rel='noreferrer'>NetflixGPT</a>
         <br />
-        Live Demo: <a href='https://8ttribute.com' target='_blank' className='hover:text-blue-700 ml-3 text-blue-600 text-sm' rel='noreferrer'>Live Demo</a>
+        Live Demo: <a href='https://nightflex.netlify.app/' target='_blank' className='hover:text-blue-700 ml-3 text-blue-600 text-sm' rel='noreferrer'>Live Demo</a>
         <br></br>
         Linkedin: <a href='https://www.linkedin.com/in/subrat-prakash/' className='hover:text-blue-700 ml-3 text-blue-600 text-sm' target='_blank' rel='noreferrer'>Subrat Prakash</a>
       </div>

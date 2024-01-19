@@ -1,7 +1,7 @@
 {
   "name": "netflix-gpt",
   "version": "0.1.0",
-  "homepage": "https://netflixgpt-adb33.web.app/",
+  "homepage": "https://nightflex.netlify.app/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

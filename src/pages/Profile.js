@@ -8,7 +8,7 @@ const Profile = () => {
   const dispatch = useDispatch();
   // https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-88wkdmjrorckekha.jpg
   const updatedInfo = {
-    displayName: "Neeraj",
+    displayName: "Subrat",
     photoURL: AVATAR_BLUE
   }
   const handleUpdateProfile = () => {
@@ -42,7 +42,7 @@ const Profile = () => {
     // <div className="p-4">
     //   <h1>My Profile</h1>
     //   <div className="">
-    //     name: Neeraj <br />
+    //     name: Subrat <br />
     //     photoUrl: 'https://sfsdf.com/image.jpg' <br />
     //   </div>
     //   <button className="px-6 py-3 bg-red-primary text-white rounded-md mt-3" onClick={handleUpdateProfile}>Update Profile</button>

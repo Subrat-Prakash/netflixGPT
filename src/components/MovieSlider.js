@@ -18,10 +18,10 @@ const MovieSlider = ({ type, heading, data }) => {
     setSlidesPerGroup(slidesInView);
   };
   
-  if (!data || !data.results) {
-    // If data or data.results is undefined, return a default state or handle the error appropriately
-    return <div>No data available</div>;
-  }
+  // if (!data || !data.results) {
+  //   // If data or data.results is undefined, return a default state or handle the error appropriately
+  //   return <div>No data available</div>;
+  // }
 
   const movies = data.results;
 

@@ -114,7 +114,7 @@ const GptSearchBar = ({ searchOpacity }) => {
           </div>
           <p className='text-xs mt-1'>
             Note: Movie recommendations powered by GPT are available on request due to paid APIs.
-            <a href="https://www.linkedin.com/in/okneerajsingh/" target="_blank" rel="noreferrer" className='ml-2 text-sm text-gray-400 hover:text-gray-200'>Request now</a>
+            <a href="https://www.linkedin.com/in/subrat-prakash/" target="_blank" rel="noreferrer" className='ml-2 text-sm text-gray-400 hover:text-gray-200'>Request now</a>
           </p>
         </form>
       </div>

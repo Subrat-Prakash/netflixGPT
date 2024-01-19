@@ -3,7 +3,7 @@ export const TMDB_OPTIONS = {
   headers: {
     "Content-Type": "application/json;charset=UTF-8",
     accept: 'application/json',
-    Authorization: "Bearer " + process.env.REACT_APP_TMDB_KEY,
+    Authorization: `Bearer ${process.env.REACT_APP_TMDB_KEY}` ,
   }
 };
 

@@ -74,43 +74,11 @@ npm start
   - Search
   - MoviesSuggestion
 
-## Screen Shot
+## Live
 
 Live Demo : [Live Demo](https://nightflex.netlify.app/ "Live Demo")
 
-## Screen Shot
 
-- Landing Page
-
-  ![Landing Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/01-Landing.png)
-
-- Signin Page
-
-  ![Signin Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/02-Signin.png)
-
-- Signup Page
-
-  ![Signup Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/03-Signup.png)
-
-- Browse Page
-
-  ![Browse Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/04-Browse.png)
-
-- Movie List
-
-  ![Movie List](https://Subrat-Prakash.github.io/netflixGPT/screenshot/05-Movie-List.png)
-
-- Shimmer Loading
-
-  ![Shimmer Loading](https://Subrat-Prakash.github.io/netflixGPT/screenshot/06-Shimmer-loading.png)
-
-- Search Page
-
-  ![Search Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/07-Search.png)
-
-- Watch Now Page
-
-  ![Watch Now Page](https://Subrat-Prakash.github.io/netflixGPT/screenshot/08-Watch.png)
 
 # 💖 Support This Project
 
